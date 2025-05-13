@@ -4,7 +4,7 @@
 Projeto de página web, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 
 <p align="center">
-<img src=".github/preview.png" alt="Demonstração do projeto" width="100%" />
+<img src=".github/preview2.jpg" alt="Demonstração do projeto" width="100%" />
 </p>
 
 ## 💻 Projeto 
